@@ -11,3 +11,4 @@ if ! dpkg -s fonts-dejavu >/dev/null; then
 else
     echo "**** Firefox-fonts packages already installed, skipping ****"
 fi
+
